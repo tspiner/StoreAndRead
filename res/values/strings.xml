@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jeremy6</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_palette">Palette</string>
+    <string name="title_activity_picture">Picture</string>
+    <string name="title_activity_guess">Guess</string>
+
+</resources>
